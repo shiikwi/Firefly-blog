@@ -43,9 +43,9 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 		desktop: [
 			"assets/images/DesktopWallpaper/dw1.avif",
 			"assets/images/DesktopWallpaper/dw2.avif",
-			"assets/images/DesktopWallpaper/dw3.avif",
+			// "assets/images/DesktopWallpaper/dw3.avif",
 			"assets/images/DesktopWallpaper/dw4.avif",
-			"assets/images/DesktopWallpaper/dw5.avif",
+			// "assets/images/DesktopWallpaper/dw5.avif",
 			"assets/images/DesktopWallpaper/dw6.avif",
 		],
 		// 移动背景图片（支持单张或多张随机）
@@ -72,8 +72,6 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			subtitle: [
 				"Where All Miracles Begin",
 				"思い出なんて、もう要らないから",
-				"タンポポの花言葉は",
-				"真心の愛。そして、別離—",
 			],
 			// 主页横幅副标题字体大小
 			subtitleSize: "1.5rem",
