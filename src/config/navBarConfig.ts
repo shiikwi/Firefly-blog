@@ -82,7 +82,7 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 			},
 			{
 				name: "图床",
-				url: "",
+				url: "https://img.koisukui.top/",
 				external: true,
 				icon: "material-symbols:image-rounded"
 			},
