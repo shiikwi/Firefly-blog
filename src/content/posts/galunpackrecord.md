@@ -12,6 +12,38 @@ galgame解包记录，只解自己感兴趣的。部分会测试脚本，大部�
 官方中文版以官中发售时间记录，推荐使用vndb编号进行搜索。  
 
 # 2026年
+## 7月-8月
+<div class="galnote">
+[NS20260709][v50283][Unity]魔法少女ノ魔女裁判
+</div>
+AssetRipper(ProdKeys22.5)
+
+<div class="galnote">
+[20260710][v60435][Unity]恋しかるべき　～迷い家からの手紙～
+</div>
+AssetRipper
+
+<div class="galnote">
+[NS20260716][v28915][Luca System]Dreamin' Her -僕は、彼女の夢を見る。-
+</div>
+自用工具&GARbro/LucaSystemTools
+
+<div class="galnote">
+[20260717][v60544][Renpy]永恒与星辰与日常
+</div>
+rpaExtract&unrpyc
+
+<div class="galnote">
+[NS20260723][v63384][krkrz]お隣の天使様にいつの間にか駄目人間にされていた件 Memorial Vacation
+</div>
+NSGManager(ProdKeys22.5)
+
+<div class="galnote">
+[官中20260727][v11920][ExHIBIT]妹ぱらだいす！２～お兄ちゃんと5人の妹のも～っと！エッチしまくりな毎日～
+</div>
+GARbro&手动dump key&自用工具
+
+
 ## 5月-6月
 <div class="galnote">
 [20260528][v61951][SakanaGL]りかも～ど♡
@@ -54,6 +86,11 @@ KrkrExtract
 Light.VNRev
 
 <div class="galnote">
+[NS20260618][v34151][Luca System]嘘から始まる恋の夏
+</div>
+自用工具&GARbro/LucaSystemTools
+
+<div class="galnote">
 [官中20260619][v22313][FVP]さくら、もゆ。-as the Night's, Reincarnation-
 </div>
 GARbro
@@ -67,6 +104,11 @@ AssetStudio
 [20260625][v63262][SakanaGL]わんたま☆らいふ ～犬山たまきの修学旅行サバイバル～
 </div>
 GARbro
+
+<div class="galnote">
+[官中20260626][v22357][Renpy]てんぷれっ!!
+</div>
+Kagami_rpaGO
 
 <div class="galnote">
 [20260626][v52407][krkrz]as:9-nine- ARTEISIA
