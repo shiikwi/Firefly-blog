@@ -8,7 +8,7 @@ slug: git-revert-record
 draft: false
 ---
 git的撤销虽然之前在搓开源小玩具的时候用到过，但是实际开发中遇到的情况要复杂不少。
-![](https://img.koisukui.top/file/1782621964933_2.png)
+![](https://img.koisukui.top/file/git-revert-record/1782621964933_2.png)
 简单说明一下，4908dad9进行了一个模块移除的操作，但是没处理好，所以f8dba915对它进行了revert。  
 发现没有完全恢复后，进行了误操作，又revert了一次，871f9300这次revert误删了很多无关的文件。所以我只能对这个revert再进行revert。  
 这样其实就相当于这四个commit啥都没干，既没有完成模块的删除，也没有因为误操作删除多余文件。
@@ -25,7 +25,7 @@ git reset --hard HEAD~1 # 移动HEAD指针到目标提交，重置暂存区与�
 ```bash
 git reset --soft HEAD~4
 ```
-![](https://img.koisukui.top/file/1782621961871_1.png)
+![](https://img.koisukui.top/file/git-revert-record/1782621961871_1.png)
 可以看到本地已经回到了我们想要的位置，然后同步云端，直接强推覆盖(这是我fork的仓库，实际最好不要这么干，可能会被骂死。。。)
 ```bash
 git push --force

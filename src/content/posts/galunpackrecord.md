@@ -34,6 +34,11 @@ AssetRipper
 rpaExtract&unrpyc
 
 <div class="galnote">
+[20260722][v61093][krkrz]ヴァルキリーチューン：機械仕掛けのアイ
+</div>
+cxdecGO
+
+<div class="galnote">
 [NS20260723][v63384][krkrz]お隣の天使様にいつの間にか駄目人間にされていた件 Memorial Vacation
 </div>
 NSGManager(ProdKeys22.5)
@@ -43,6 +48,50 @@ NSGManager(ProdKeys22.5)
 </div>
 GARbro&手动dump key&自用工具
 
+<div class="galnote">
+[20260731][v63827][krkrz]ネモフィリア-We pass each other-
+</div>
+cxdecGO
+
+<div class="galnote">
+[20260731][v64683][Kaguya]ママトモ
+</div>
+GARbro&Kaguya_Tool
+
+<div class="galnote">
+[20260731][v64431][krkrz]もっと！孕ませ！炎のおっぱい異世界おっぱいスパイ学園！
+</div>
+cxdecGO
+
+<div class="galnote">
+[20260731][v65430][BGI]両腕が折れたのでHなお世話をされる話
+</div>
+GARbro
+
+<div class="galnote">
+[20260731][v65539][Unity]くりくりクリニック ～新人ナースの育て方～
+</div>
+AssetRipper
+
+<div class="galnote">
+[20260731][v61224][SystemAoi]ぼっちな魔王と俺の塔
+</div>
+自用工具AOI
+
+<div class="galnote">
+[20260816][v60331][krkrz]とける風花とシロうさぎ
+</div>
+GARbro
+
+<div class="galnote">
+[20260816][v65619][Tyrano]ユリアリス
+</div>
+zip
+
+<div class="galnote">
+[20260819][r128730][M2]STEINS;GATE RE:BOOT
+</div>
+Magecraft&自用工具
 
 ## 5月-6月
 <div class="galnote">
