@@ -1,6 +1,6 @@
 ---
 title: GalGame解包记录
-published: 2026-06-28
+published: 2026-08-29
 description: 部分galgame的解包记录
 tags: [gal解包]
 category: gal逆向
@@ -92,6 +92,46 @@ zip
 [20260819][r128730][M2]STEINS;GATE RE:BOOT
 </div>
 Magecraft&自用工具
+
+<div class="galnote">
+[官中20260825][v17632][Renpy]恋する気持ちのかさねかた
+</div>
+Kagami_rpaGO
+
+<div class="galnote">
+[20260827][v52780][krkrz]COCORO
+</div>
+cxdecGO
+
+<div class="galnote">
+[20260828][v55449][CatSystem2]戦国†恋姫BRAVE弐 ～戦乱の九州、島津編～
+</div>
+GARbro&Catsystem2Tools
+
+<div class="galnote">
+[20260828][v65620][YuRis]魔法騎士リーンフォリア2
+</div>
+GARbro&extYbn
+
+<div class="galnote">
+[20260828][v67704][YuRis]桃色女将の穂乃香さん～イケない、お・も・て・な・し～
+</div>
+GARbro&extYbn
+
+<div class="galnote">
+[20260828][v63659][YuRis]メイクラ ～属性盛りすぎメイドロイドと、負けたくないクラスメイトのご奉仕性活～
+</div>
+GARbro&extYbn
+
+<div class="galnote">
+[20260828][v67585][krkrz]おしかけ奥様と、キミの嘘
+</div>
+KrkrExtract
+
+<div class="galnote">
+[20260828][v64164][krkrz]ギャル姉Ｚ〜ガチ気持ちイイ！！　アタシたちがアンタの肉オナホになってやる！！〜
+</div>
+KrkrExtract
 
 ## 5月-6月
 <div class="galnote">
