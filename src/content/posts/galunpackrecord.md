@@ -12,6 +12,122 @@ galgame解包记录，只解自己感兴趣的。部分会测试脚本，大部�
 官方中文版以官中发售时间记录，推荐使用vndb编号进行搜索。  
 
 # 2026年
+## 9月-10月
+<div class="galnote">
+[20260904][v58950][Unity]痴情妹妹纱雪的兄控日记
+</div>
+AssetStudio
+
+<div class="galnote">
+[20260910][v59519][Unity]制服カノジョ3
+</div>
+AssetRipper
+
+<div class="galnote">
+[官中20260910][v10557][Renpy]向日葵の教会と長い夏休み
+</div>
+Kagami_rpaGO
+
+<div class="galnote">
+[20260918][v61200][Artemis]アイベヤ3
+</div>
+GARbro
+
+<div class="galnote">
+[20260918][v66437][YuRis]ギャルとパパ活！ ～ヤリチン中年おぢのエンジョイPacoPacoライフ～
+</div>
+GARbro
+
+<div class="galnote">
+[20260918][v68588][DebonosuWorks]鏡界上のフラグメント～アマテラス編～
+</div>
+GARbro
+
+<div class="galnote">
+[20260918][v65974][SoftPal]養花師の背徳愛～純真天使は抱かれて色めく～
+</div>
+GARbro
+
+<div class="galnote">
+[20260918][v67897][krkr]えち×ふぇちっ！ 〜地雷系女子は、臭いフェチＭ男を弄びたい〜
+</div>
+GARbro
+
+<div class="galnote">
+[20260925][v69297][Tyrano]あまえて☆にぃに３～にぃに、ずっとずっと、えらいえらい♪
+</div>
+zip
+
+<div class="galnote">
+[20260925][v63828][krkrz]王様恋愛
+</div>
+xp3-brute
+
+<div class="galnote">
+[20260925][v64038][Siglus]サヤガタリ-妖刀の約束-
+</div>
+GARbro/SiglusExtract
+
+<div class="galnote">
+[20261023][v67336][Siglus]ハイアングル～幼馴染のバレー部エースが、俺にだけ甘えてくる～
+</div>
+SiglusExtract
+
+<div class="galnote">
+[20261030][v66374][krkrz]D.C.5 to 4 ～ダ・カーポ5トゥ4～ ルミナスメモリーズ
+</div>
+cxdecGO
+
+<div class="galnote">
+[20261030][v66154][Escu:de]廃村少女［弐］ 外伝 ～千艶万匣～
+</div>
+GARbro/EscudeTools
+
+<div class="galnote">
+[20261030][v70323][krkr]血刻継承クレイドペイン―少女たちの終焉―
+</div>
+GARbro
+
+<div class="galnote">
+[20261030][v66155][AdvHD]天獄のヴィネア〜災厄の魔女と七つの罪〜
+</div>
+GARbro
+
+<div class="galnote">
+[20261030][v68200][BGI]トリプルペアリング ミニファンディスク
+</div>
+GARbro
+
+<div class="galnote">
+[20261030][v61215][YuRis]さくらぶトライアングル
+</div>
+GARbro&extYbn
+
+<div class="galnote">
+[20261030][v48838][Siglus]FORTUNE×WORLD～僕らがゲームを作る理由～
+</div>
+SiglusExtract
+
+<div class="galnote">
+[20261030][r150616][ExHIBIT]ストレイ・シープと死人の恋 Vol.2
+</div>
+ExHIBIT_static_key&GARbro
+
+<div class="galnote">
+[20261030][v66872][krkrz]西園家のかくしゴト - The Secret Revealed by the Lens -
+</div>
+cxdecGO
+
+<div class="galnote">
+[20261030][v69594][krkr]異世界孕ませハーレム ～ギルドで一番人気の美少女パーティーを巨根でマゾ惚れさせてチン媚びお尽くしされまくる冒険性活～
+</div>
+GARbro
+
+<div class="galnote">
+[20261030][v66508][ANIM]壁の向こうの妻の嬌声f 〜かつて戯れあった俺たちは、交錯する淫宴とともに肉欲へと溺れゆく〜
+</div>
+GARbro&SExtractor
+
 ## 7月-8月
 <div class="galnote">
 [NS20260709][v50283][Unity]魔法少女ノ魔女裁判
