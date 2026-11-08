@@ -1,6 +1,6 @@
 ---
 title: GalGame解包记录
-published: 2026-08-29
+published: 2026-11-08
 description: 部分galgame的解包记录
 tags: [gal解包]
 category: gal逆向
